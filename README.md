@@ -15,4 +15,13 @@ Classification of patients' images using Support Vector Machines
 Support Vector Machine Algorithm
 
 ## Notes on CDR (Clinical Dementia Rating)
-The CDR is based on a scale of 0–3: no dementia (CDR = 0), questionable dementia (CDR = 0.5), MCI (CDR = 1), moderate cognitive impairment (CDR = 2), and severe cognitive impairment (CDR = 3). Two sets of questions are asked, one for the informant and another for the subject. Source https://www.sciencedirect.com/topics/medicine-and-dentistry/clinical-dementia-rating
+CDR-0: no cognitive impairment
+
+CDR-0.5: questionable or very mild dementia
+
+CDR-1: mild
+
+CDR-2: moderate
+
+CDR-3: severe
+Source https://www.sciencedirect.com/topics/medicine-and-dentistry/clinical-dementia-rating
