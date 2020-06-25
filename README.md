@@ -25,3 +25,8 @@ CDR-2: moderate
 
 CDR-3: severe
 Source https://www.sciencedirect.com/topics/medicine-and-dentistry/clinical-dementia-rating
+
+## Notes on the sum of the boxes score
+In some clinical trials the CDR is used as a more quantitative “sum-of-the-boxes” numerical rating. This sums up the scores of the six individual domains and expresses it on a range from 0 to 18 and is more sensitive than the 4-point CDR staging from 0.5, to 1, 2, and 3
+Source https://www.sciencedirect.com/topics/medicine-and-dentistry/clinical-dementia-rating
+
