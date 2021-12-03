@@ -1,8 +1,8 @@
 # AI-Coginitive-Status-Prediction
-AI Project using SVM
+AI Project using CNN
 
 # Subject : Patients' Cognitive Status Prediction
-Classification of patients' images using Support Vector Machines
+Classification of patients' images using Convolutional Neural Network
 
 ## Using Predictive Analytics Model in images to predict the cognitive status of patients
 
@@ -12,7 +12,7 @@ Classification of patients' images using Support Vector Machines
 - Records and thought process
 
 ## Approach
-Support Vector Machine Algorithm
+Convolutional Neural Network
 
 ## Notes on CDR (Clinical Dementia Rating)
 CDR-0: no cognitive impairment
