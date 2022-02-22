@@ -1,4 +1,4 @@
-# AI-Coginitive-Status-Prediction
+# Clinical_Dementia_Rating_Prediction (RCFT Images)
 AI Project using CNN
 
 # Subject : Patients' Cognitive Status Prediction
